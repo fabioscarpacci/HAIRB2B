@@ -1,0 +1,68 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	margin: 0px !important;
+}
+
+a {
+	text-decoration: none;
+}
+
+h1 {
+	font-size: 46px;
+}
+
+h2 {
+	font-size: 30px;
+}
+
+.banner {
+	background-image: url(images/banner1.jpg);
+	padding :200px 0px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	width:100%;
+	color: white;
+	text-align: center;
+}
+
+
+.btn-red {
+	color :white;
+	padding : 30px;
+	background-color: red;
+	border-radius: 6px;
+	font-size:20px ;
+}
+.mt-60 {
+		margin-top: 60px;
+}
+
+.container{
+		display:flex;
+		height:250px;
+}
+	
+
+.card{
+	margin: 50px;
+	height: 90%;
+	width: 30%;
+	border-radius: 20px;
+	background-color: #468680;
+	text-align: center;
+}
+
+footer{
+	display: flex;
+	justify-content:space-between;
+	background-color: black;
+	margin-top:20px;
+	color: white;
+}
+#linkedin {
+	color: white;
+}
+
+.mt-20 {
+	margin-top: 20px;
+}
